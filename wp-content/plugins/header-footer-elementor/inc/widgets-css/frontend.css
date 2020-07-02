@@ -906,7 +906,7 @@ div.hfe-nav-menu,
     left: 0;
     right: 0;
     z-index: 999998;
-    background: url(https://shpooya.github.io/WP_Cartoonize4U/wp-content/plugins/header-footer-elementor/inc/images/shade.png) repeat;
+    background: url(https://shpooya.github.io/WordPressCartoonize/wp-content/plugins/header-footer-elementor/inc/images/shade.png) repeat;
     background: rgba(0,0,0,.6);
     cursor: pointer;
     -webkit-backface-visibility: hidden;
